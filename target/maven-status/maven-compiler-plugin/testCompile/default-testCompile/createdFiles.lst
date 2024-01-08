@@ -1,0 +1,5 @@
+org\nopcommerce\AddToCartPagePOM.class
+org\nopcommerce\LoginPagePOM.class
+org\nopcommerce\ProductPagePOM.class
+org\nopcommerce\BaseClass.class
+org\nopcommerce\RunnerClass.class
